@@ -70,7 +70,7 @@ public class GitLab implements EntryPoint {
 		RootPanel.get("root").add(flexTable);
 
 //resolved comment: "C"
-// new added comment: "E"
+// second resolved comment: "G"
 		flexTable.setText(0,0, "Name");
 		flexTable.setText(0,1,"Language");
 		flexTable.setText(0,2, "Size of Shopping Cart");
